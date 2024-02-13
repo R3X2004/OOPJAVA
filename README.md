@@ -193,6 +193,7 @@ Ass-8
 Write a java program that will create one child thread. The child thread has to display all
 Even numbers between m and n, and the main thread will display all the Odd numbers
 between m and n.
+
 2. Write a java program to create two threads. First thread should find the square of the number,
 second thread should find the factorial of the number.
 
@@ -211,9 +212,11 @@ second thread prints the letter B, 100 times. Using join() method do the above t
 Create program that creates two threads. The first thread prints the string “Hello” 50 times
 and the second thread prints the string “Hi” 50 times. Using synchronized block do the above
 task.
+
 4
 Write a multithreading java program to print multiplication table of no1,no2,no3. no1,no2 &
 no3 will be inputted by user at runtime. Use join() method to do the above task sequentially.
+
 5 Write the above program 4 using synchronized method.
 
 Ass-10
@@ -244,9 +247,11 @@ Ass-11
 Write a java awt program - Create three color buttons (with caption “Red”, “Blue” and “Green”) and
 a text label. Initially the text should be displayed in black color. When the user clicks on a particular
 color button the text should be changed to that particular color as shown in the figure.
+
 2
 Write a java awt program to creates three push buttons showing three different colors as their label.
 When a button is clicked, that particular color is set as background color in the frame.
+
 3
 Write a java awt program, which will create 3 text field and one button labelled as add. The program
 will take the input from the two text filed and upon pressing the add button it will display the result
