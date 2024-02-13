@@ -15,6 +15,7 @@ b). Count the numbers which are divisible by 3 and 5(between M and N), then add 
 numbers and display.
 6. Write a java program that will count the number of primes between 37 and 129.
 7. Write a Java program that will evaluate the following exponential series.
+1 + x + (x ^ 2)/(2!) + (x ^ 3)/(3!) + (x ^ 4)/(4!) +....
 
 Ass-2
 1. Write a java program that will search a number from an array of 10 inputted numbers and
